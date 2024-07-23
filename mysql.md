@@ -38,6 +38,10 @@ https://www.cnblogs.com/ZhuChangwu/p/14060916.html  简介undo log、truncate、
 
 http://mysql.taobao.org/monthly/2017/11/05/  MySQL · 源码分析 · InnoDB LRU List刷脏改进之路
 
+http://mysql.taobao.org/monthly/2017/12/01/   InnoDB 事务系统
+
+http://mysql.taobao.org/monthly/2017/10/01/   MVCC机制浅析
+
 
 
 ###### 分页查询
